@@ -97,4 +97,9 @@ public class SampleDataProvider extends BridgeDataProvider
 
         return super.loadTask(context, task);
     }
+
+//    @Override
+//    public void uploadTaskResult(Context context, TaskResult taskResult) {
+//
+//    }
 }
